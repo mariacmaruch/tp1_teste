@@ -1,0 +1,8 @@
+C:\Users\maria\OneDrive\SE5\Tp1Teste\Tp1Teste\bin\Debug\Tp1Teste.exe.config
+C:\Users\maria\OneDrive\SE5\Tp1Teste\Tp1Teste\bin\Debug\Tp1Teste.exe
+C:\Users\maria\OneDrive\SE5\Tp1Teste\Tp1Teste\bin\Debug\Tp1Teste.pdb
+C:\Users\maria\OneDrive\SE5\Tp1Teste\Tp1Teste\obj\Debug\Tp1Teste.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\SE5\Tp1Teste\Tp1Teste\obj\Debug\Tp1Teste.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\OneDrive\SE5\Tp1Teste\Tp1Teste\obj\Debug\Tp1Teste.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\SE5\Tp1Teste\Tp1Teste\obj\Debug\Tp1Teste.exe
+C:\Users\maria\OneDrive\SE5\Tp1Teste\Tp1Teste\obj\Debug\Tp1Teste.pdb
