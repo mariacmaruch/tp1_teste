@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maria\\OneDrive\\SE5\\Tp1Teste\\IdentifierTest\\IdentifierTest.csproj": {}
+    "C:\\Projetos\\tp1_teste\\Tp1Teste\\IdentifierTest\\IdentifierTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maria\\OneDrive\\SE5\\Tp1Teste\\IdentifierTest\\IdentifierTest.csproj": {
+    "C:\\Projetos\\tp1_teste\\Tp1Teste\\IdentifierTest\\IdentifierTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\SE5\\Tp1Teste\\IdentifierTest\\IdentifierTest.csproj",
+        "projectUniqueName": "C:\\Projetos\\tp1_teste\\Tp1Teste\\IdentifierTest\\IdentifierTest.csproj",
         "projectName": "IdentifierTest",
-        "projectPath": "C:\\Users\\maria\\OneDrive\\SE5\\Tp1Teste\\IdentifierTest\\IdentifierTest.csproj",
-        "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maria\\OneDrive\\SE5\\Tp1Teste\\IdentifierTest\\obj\\",
+        "projectPath": "C:\\Projetos\\tp1_teste\\Tp1Teste\\IdentifierTest\\IdentifierTest.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\tp1_teste\\Tp1Teste\\IdentifierTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\maria\\OneDrive\\SE5\\Tp1Teste\\Tp1Teste\\Tp1Teste.csproj": {
-                "projectPath": "C:\\Users\\maria\\OneDrive\\SE5\\Tp1Teste\\Tp1Teste\\Tp1Teste.csproj"
+              "C:\\Projetos\\tp1_teste\\Tp1Teste\\Tp1Teste\\Tp1Teste.csproj": {
+                "projectPath": "C:\\Projetos\\tp1_teste\\Tp1Teste\\Tp1Teste\\Tp1Teste.csproj"
               }
             }
           }
@@ -76,15 +76,15 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\maria\\OneDrive\\SE5\\Tp1Teste\\Tp1Teste\\Tp1Teste.csproj": {
+    "C:\\Projetos\\tp1_teste\\Tp1Teste\\Tp1Teste\\Tp1Teste.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\maria\\OneDrive\\SE5\\Tp1Teste\\Tp1Teste\\Tp1Teste.csproj",
+        "projectUniqueName": "C:\\Projetos\\tp1_teste\\Tp1Teste\\Tp1Teste\\Tp1Teste.csproj",
         "projectName": "Tp1Teste",
-        "projectPath": "C:\\Users\\maria\\OneDrive\\SE5\\Tp1Teste\\Tp1Teste\\Tp1Teste.csproj",
+        "projectPath": "C:\\Projetos\\tp1_teste\\Tp1Teste\\Tp1Teste\\Tp1Teste.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
